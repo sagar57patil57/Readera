@@ -1,5 +1,3 @@
-# MEVN-auth
-Efficient way of role based authenication using jwt and mevn stack
 
 <ul>
 <li>cd client</li>
